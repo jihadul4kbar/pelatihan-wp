@@ -1,0 +1,10 @@
+A. Buatlah Katagori terdiri dari
+1. Wisata Air Terjun
+2. Berita
+3. Kesenian
+4. Tempat Ibadah
+5. Wisata Pantai
+
+B. Buatlah artikel dan sertakan gamba untuk masing-masing katagori minimal 5 artikel
+C. 
+

@@ -1,0 +1,621 @@
+1
+00:00:00,000 --> 00:00:04,070
+
+
+2
+00:00:04,070 --> 00:00:07,440
+SPEAKER:Setiap hari, miliaran
+orang datang ke sini dengan pertanyaan
+
+3
+00:00:07,440 --> 00:00:09,370
+tentang segala macam hal.
+
+4
+00:00:09,370 --> 00:00:13,140
+Terkadang kami bahkan mendapat pertanyaan
+tentang Google Penelusuran itu sendiri,
+
+5
+0000:13,140 --> 00:00:15,990
+seperti bagaimana keseluruhan ini
+hal itu benar-benar bekerja.
+
+6
+00:00:15,990 --> 00:00:18,660
+Dan sementara ini adalah subjek
+seluruh buku telah ditulis
+
+7
+00:00:18,660 --> 00:00:20,430
+tentang, ada
+kesempatan bagus kamu
+
+8
+00:00:20,430 --> 00:00:23,290
+di pasar untuk sesuatu
+sedikit lebih ringkas.
+
+9
+00:00:23,290 --> 00:00:25,380
+Jadi katakanlah itu
+mendekati makan malam
+
+10
+00:00:25,380 --> 00:00:27,120
+dan Anda menginginkan file
+resep untuk lasagna.
+
+11
+00:00:27,120 --> 00:00:29,950
+
+
+12
+00:00:29,950 --> 00:00:32,210
+Anda mungkin pernah
+melihat ini sebelumnya.
+
+13
+00:00:32,210 --> 00:00:34,270
+Tapi mari kita bahas lebih dalam.
+
+14
+00:00:34,270 --> 00:00:37,840
+Sejak awal, kembali kapan
+halaman muka terlihat seperti ini,
+
+15
+00:00:37,840 --> 00:00:39,730
+Google telah
+pemetaan terus menerus
+
+16
+00:00:39,730 --> 00:00:42,310
+web, ratusan
+milyaran halaman,
+
+17
+00:00:42,310 --> 00:00:44,650
+untuk menciptakan sesuatu
+disebut indeks.
+
+18
+00:00:44,650 --> 00:00:46,480
+Anggap saja sebagai
+perpustakaan raksasa kami
+
+19
+00:00:46,480 --> 00:00:49,930
+lihat setiap kali Anda melakukan a
+cari lasagna atau apapun
+
+20
+00:00:49,930 --> 00:00:50,960
+lain.
+
+21
+00:00:50,960 --> 00:00:53,500
+Sekarang, kata lasagna
+banyak muncul di web--
+
+22
+00:00:53,500 --> 00:00:55,510
+halaman tentang
+sejarah lasagna,
+
+23
+00:00:55,510 --> 00:00:57,610
+artikel oleh para ilmuwan
+yang nama belakangnya
+
+24
+00:00:57,610 --> 00:01:00,520
+kebetulan Lasagna,
+barang orang lain
+
+25
+00:01:00,520 --> 00:01:01,820
+mungkin mencari.
+
+26
+00:01:01,820 --> 00:01:04,510
+Tetapi jika Anda lapar, secara acak
+mengklik jutaan
+
+27
+00:01:04,510 --> 00:01:06,460
+tautan tidak menyenangkan.
+
+28
+00:01:06,460 --> 00:01:09,860
+Di sinilah peringkat Google
+algoritma ikut bermain.
+
+29
+00:01:09,860 --> 00:01:11,440
+Pertama, mereka mencoba
+untuk memahami apa
+
+30
+00:01:11,440 --> 00:01:14,350
+yang Anda cari agar mereka bisa
+membantu meskipun Anda tidak melakukannya
+
+31
+00:01:14,350 --> 00:01:16,330
+tahu persis
+kata-kata yang tepat untuk digunakan
+
+32
+00:01:16,330 --> 00:01:18,310
+atau jika ejaan Anda
+sedikit salah.
+
+33
+00:01:18,310 --> 00:01:20,740
+Kemudian mereka menyaring
+jutaan kemungkinan pertandingan
+
+34
+00:01:20,740 --> 00:01:22,930
+di indeks dan
+merakit secara otomatis
+
+35
+00:01:22,930 --> 00:01:25,600
+halaman yang mencoba untuk menempatkan
+informasi yang paling relevan
+
+36
+00:01:25,600 --> 00:01:27,760
+di atas untuk Anda pilih.
+
+37
+00:01:27,760 --> 00:01:28,330
+BAIK.
+
+38
+00:01:28,330 --> 00:01:30,160
+Sekarang kami memiliki beberapa hasil.
+
+39
+00:01:30,160 --> 00:01:32,020
+Tapi bagaimana
+algoritma benar-benar memutuskan
+
+40
+00:01:32,020 --> 00:01:34,113
+apa yang berhasil
+halaman pertama?
+
+41
+00:01:34,113 --> 00:01:35,530
+Ada ratusan
+faktor itu
+
+42
+00:01:35,530 --> 00:01:37,130
+masuk ke hasil pencarian peringkat.
+
+43
+00:01:37,130 --> 00:01:39,350
+Jadi mari kita bicarakan
+beberapa dari mereka.
+
+44
+00:01:39,350 --> 00:01:41,380
+Anda mungkin sudah tahu
+halaman yang berisi
+
+45
+00:01:41,380 --> 00:01:43,060
+kata-kata kamu
+cari lebih banyak
+
+46
+00:01:43,060 --> 00:01:44,620
+kemungkinan besar akan berakhir di atas.
+
+47
+00:01:44,620 --> 00:01:46,010
+Tidak mengherankan.
+
+48
+00:01:46,010 --> 00:01:49,210
+Tapi lokasinya
+kata-kata, seperti di judul halaman,
+
+49
+00:01:49,210 --> 00:01:52,490
+atau dalam keterangan gambar,
+itu juga faktor-faktornya.
+
+50
+00:01:52,490 --> 00:01:55,090
+Masih banyak lagi
+peringkat dari sekedar kata-kata.
+
+51
+00:01:55,090 --> 00:01:56,860
+Kembali saat Google mendapatkannya
+dimulai, kami melihat
+
+52
+00:01:56,860 --> 00:01:58,540
+tentang bagaimana halaman terhubung
+satu sama lain
+
+53
+00:01:58,540 --> 00:02:00,730
+untuk lebih memahami
+tentang halaman apa
+
+54
+00:02:00,730 --> 00:02:03,460
+dan seberapa penting dan
+mereka tampak dapat dipercaya.
+
+55
+00:02:03,460 --> 00:02:05,960
+Hari ini, penautan masih
+faktor penting.
+
+56
+00:02:05,960 --> 00:02:09,460
+Faktor lainnya adalah lokasi,
+tempat pencarian terjadi.
+
+57
+00:02:09,460 --> 00:02:12,250
+Karena, jika terjadi
+berada di Ormea, Italia,
+
+58
+00:02:12,250 --> 00:02:13,750
+Anda mungkin mencari
+untuk informasi
+
+59
+00:02:13,750 --> 00:02:15,910
+tentang tahunan mereka
+festival lasagna.
+
+60
+00:02:15,910 --> 00:02:20,110
+Tetapi jika Anda berada di Omaha,
+Nebraska, Anda mungkin tidak.
+
+61
+00:02:20,110 --> 00:02:23,590
+Saat halaman web diunggah
+merupakan faktor penting juga.
+
+62
+00:02:23,590 --> 00:02:25,540
+Halaman diterbitkan
+lebih sering baru-baru ini
+
+63
+00:02:25,540 --> 00:02:27,820
+lebih akurat
+informasi, khususnya
+
+64
+00:02:27,820 --> 00:02:30,730
+dalam kasus yang cepat
+mengembangkan berita.
+
+65
+00:02:30,730 --> 00:02:34,390
+Tentu saja, tidak semua situs di
+web mencoba membantu.
+
+66
+00:02:34,390 --> 00:02:37,690
+Sama seperti dengan robocall di
+telepon atau spam di email Anda,
+
+67
+00:02:37,690 --> 00:02:40,510
+ada banyak situs
+yang hanya ada untuk scam.
+
+68
+00:02:40,510 --> 00:02:43,790
+Dan setiap hari, penipu
+mengunggah jutaan lainnya.
+
+69
+00:02:43,790 --> 00:02:46,720
+Jadi hanya karena
+InstantVirusDownload.net
+
+70
+00:02:46,720 --> 00:02:49,480
+mencantumkan kata-kata "lasagna
+resep "400 kali,
+
+71
+00:02:49,480 --> 00:02:51,730
+itu tidak berarti itu pergi
+untuk membantumu membuat makan malam.
+
+72
+00:02:51,730 --> 00:02:54,460
+Kami menghabiskan banyak waktu untuk mencoba
+untuk tetap selangkah lebih maju dari trik
+
+73
+00:02:54,460 --> 00:02:57,277
+seperti ini, pastikan kami
+algoritma dapat mengenali penipuan
+
+74
+00:02:57,277 --> 00:02:59,860
+situs dan menandainya sebelum mereka
+masuk ke hasil pencarian Anda
+
+75
+00:02:59,860 --> 00:03:01,100
+halaman.
+
+76
+00:03:01,100 --> 00:03:02,470
+Jadi mari kita ulas.
+
+77
+00:03:02,470 --> 00:03:04,420
+Miliaran kali
+sehari, kapanpun
+
+78
+00:03:04,420 --> 00:03:07,840
+seseorang menelusuri lasagna,
+atau lanjutkan menulis tip,
+
+79
+00:03:07,840 --> 00:03:10,900
+atau cara membedong a
+sayang, atau apapun,
+
+80
+00:03:10,900 --> 00:03:13,620
+Perangkat lunak Google menempatkan semua file
+hasil yang mungkin relevan
+
+81
+00:03:13,620 --> 00:03:15,490
+di web, hapus
+semua spam,
+
+82
+00:03:15,490 --> 00:03:18,760
+dan memberi peringkat berdasarkan ratusan
+faktor, seperti kata kunci,
+
+83
+00:03:18,760 --> 00:03:21,230
+tautan, lokasi, dan kesegaran.
+
+84
+00:03:21,230 --> 00:03:21,730
+BAIK.
+
+85
+00:03:21,730 --> 00:03:24,070
+Waktu yang tepat untuk menarik napas.
+
+86
+00:03:24,070 --> 00:03:27,040
+Bagian terakhir ini tentang bagaimana
+kami membuat perubahan pada Penelusuran.
+
+87
+00:03:27,040 --> 00:03:28,450
+Dan itu penting.
+
+88
+00:03:28,450 --> 00:03:31,090
+Sejak 1998, kapan
+Google online,
+
+89
+00:03:31,090 --> 00:03:34,030
+orang tampaknya telah menemukan
+hasil kami sangat membantu.
+
+90
+00:03:34,030 --> 00:03:36,580
+Tapi web selalu begitu
+berubah dan orang selalu
+
+91
+00:03:36,580 --> 00:03:38,390
+mencari hal-hal baru.
+
+92
+00:03:38,390 --> 00:03:40,840
+Faktanya, satu masuk
+setiap tujuh pencarian
+
+93
+00:03:40,840 --> 00:03:43,210
+adalah untuk sesuatu yang tidak pernah
+telah diketik dalam pencarian
+
+94
+00:03:43,210 --> 00:03:46,330
+kotak sebelumnya oleh siapa pun.
+
+95
+00:03:46,330 --> 00:03:49,390
+Jadi kami selalu bekerja
+tentang pembaruan untuk Penelusuran,
+
+96
+00:03:49,390 --> 00:03:51,230
+ribuan setiap tahun.
+
+97
+00:03:51,230 --> 00:03:53,390
+Yang memunculkan pertanyaan besar.
+
+98
+00:03:53,390 --> 00:03:54,790
+Bagaimana kami memutuskan
+apakah ada perubahan
+
+99
+00:03:54,790 --> 00:03:56,710
+apakah membuat Penelusuran lebih membantu?
+
+100
+00:03:56,710 --> 00:03:58,660
+Nah, salah satunya
+cara kita mengevaluasi
+
+101
+00:03:58,660 --> 00:04:01,890
+potensi pembaruan untuk Penelusuran
+adalah dengan bertanya kepada orang-orang seperti Anda.
+
+102
+00:04:01,890 --> 00:04:04,180
+Setiap hari, ribuan
+Penilai kualitas penelusuran
+
+103
+00:04:04,180 --> 00:04:06,970
+lihat contoh Penelusuran
+hasil berdampingan,
+
+104
+00:04:06,970 --> 00:04:09,700
+kemudian berikan masukan tentang
+relevansi dan keandalan
+
+105
+00:04:09,700 --> 00:04:11,500
+informasi.
+
+106
+00:04:11,500 --> 00:04:13,960
+Untuk memastikannya
+evaluasi konsisten,
+
+107
+00:04:13,960 --> 00:04:16,660
+penilai mengikuti daftar
+penilai kualitas Penelusuran
+
+108
+00:04:16,660 --> 00:04:17,779
+pedoman.
+
+109
+00:04:17,779 --> 00:04:20,290
+Pikirkan mereka sebagai publik kita
+tersedia panduan untuk apa
+
+110
+00:04:20,290 --> 00:04:22,160
+membuat hasil yang bagus menjadi bagus.
+
+111
+00:04:22,160 --> 00:04:24,310
+Oh, dan yang terakhir
+hal yang perlu diingat.
+
+112
+00:04:24,310 --> 00:04:27,470
+Kami menggunakan tanggapan dari
+penilai untuk mengevaluasi perubahan.
+
+113
+00:04:27,470 --> 00:04:31,090
+Tapi mereka tidak berdampak langsung
+bagaimana hasil Penelusuran diberi peringkat.
+
+114
+00:04:31,090 --> 00:04:32,560
+Jadi begitulah.
+
+115
+00:04:32,560 --> 00:04:34,750
+Setiap kali Anda mengklik
+Telusuri, algoritme kami
+
+116
+00:04:34,750 --> 00:04:37,390
+sedang menganalisis artinya
+dari kata-kata dalam pencarian Anda,
+
+117
+00:04:37,390 --> 00:04:39,310
+mencocokkannya dengan
+konten di web,
+
+118
+00:04:39,310 --> 00:04:41,290
+memahami apa
+konten paling banyak
+
+119
+00:04:41,290 --> 00:04:43,123
+cenderung membantu
+dan dapat diandalkan,
+
+120
+00:04:43,123 --> 00:04:45,040
+dan kemudian secara otomatis
+menyatukan semuanya
+
+121
+00:04:45,040 --> 00:04:47,950
+di halaman yang tertata rapi
+dirancang untuk memberi Anda info
+
+122
+00:04:47,950 --> 00:04:48,650
+kamu butuh.
+
+123
+00:04:48,650 --> 00:04:50,890
+Semua dalam, oh, 0,81 detik?
+
+124
+00:04:50,890 --> 00:04:51,492
+Wow.
+
+125
+00:04:51,492 --> 00:04:52,700
+Ada lagi yang siap untuk makan malam?
+
+126
+00:04:52,700 --> 00:04:55,540
+
+
+127
+00:04:55,540 --> 00:04:56,890
+Tertarik untuk mempelajari lebih lanjut?
+
+128
+00:04:56,890 --> 00:04:59,740
+Kami memiliki seluruh situs web
+didedikasikan untuk cara kerja Penelusuran.
+
+129
+00:04:59,740 --> 00:05:01,720
+Cukup klik di sini.
+
+130
+00:05:01,720 --> 00:05:04,480
+Ingin membaca Kualitas Pencarian
+Pedoman Penilai untuk Anda sendiri?
+
+131
+00:05:04,480 --> 00:05:06,450
+Klik di sini.
+
+132
+00:05:06,450 --> 00:05:15,000
